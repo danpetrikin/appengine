@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/241/trunk/python/lib/webapp2/tests
+END
+extras_config_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_config_test.py
+END
+misc_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/misc_test.py
+END
+extras_sessions_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_sessions_test.py
+END
+extras_security_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_security_test.py
+END
+response_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/response_test.py
+END
+webapp1_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/webapp1_test.py
+END
+extras_json_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_json_test.py
+END
+extras_jinja2_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_jinja2_test.py
+END
+extras_appengine_sessions_memcache_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_appengine_sessions_memcache_test.py
+END
+extras_appengine_sessions_ndb_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/241/trunk/python/lib/webapp2/tests/extras_appengine_sessions_ndb_test.py
+END
+extras_i18n_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_i18n_test.py
+END
+extras_securecookie_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_securecookie_test.py
+END
+extras_routes_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_routes_test.py
+END
+test_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/233/trunk/python/lib/webapp2/tests/test_base.py
+END
+extras_appengine_users_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_appengine_users_test.py
+END
+handler_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/241/trunk/python/lib/webapp2/tests/handler_test.py
+END
+extras_mako_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_mako_test.py
+END
+extras_local_app_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/extras_local_app_test.py
+END
+extras_appengine_auth_models_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/241/trunk/python/lib/webapp2/tests/extras_appengine_auth_models_test.py
+END
+extras_auth_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/241/trunk/python/lib/webapp2/tests/extras_auth_test.py
+END
+routing_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/routing_test.py
+END
+request_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/241/trunk/python/lib/webapp2/tests/request_test.py
+END

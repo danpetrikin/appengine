@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info
+END
+SOURCES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info/SOURCES.txt
+END
+top_level.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info/top_level.txt
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info/PKG-INFO
+END
+dependency_links.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info/dependency_links.txt
+END
+not-zip-safe
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info/not-zip-safe
+END
+requires.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PyAMF.egg-info/requires.txt
+END

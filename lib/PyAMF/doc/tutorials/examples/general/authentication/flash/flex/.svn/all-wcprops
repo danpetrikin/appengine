@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/flash/flex
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/flash/flex/.project
+END
+.flexProperties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/flash/flex/.flexProperties
+END
+.actionScriptProperties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/flash/flex/.actionScriptProperties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/flash/flex/build.xml
+END

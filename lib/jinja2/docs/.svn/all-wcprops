@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs
+END
+api.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/api.rst
+END
+cache_extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/cache_extension.py
+END
+jinjastyle.sty
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/jinjastyle.sty
+END
+integration.rst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/integration.rst
+END
+changelog.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/changelog.rst
+END
+intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/intro.rst
+END
+jinjaext.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/jinjaext.py
+END
+templates.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/templates.rst
+END
+sandbox.rst
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/sandbox.rst
+END
+tricks.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/tricks.rst
+END
+switching.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/switching.rst
+END
+extensions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/extensions.rst
+END
+logo.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/logo.pdf
+END
+contents.rst.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/contents.rst.inc
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/conf.py
+END
+latexindex.rst
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/latexindex.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/Makefile
+END
+faq.rst
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/faq.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/index.rst
+END

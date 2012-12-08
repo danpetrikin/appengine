@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/basic/templates
+END
+broken.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/basic/templates/broken.html
+END
+subbroken.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/basic/templates/subbroken.html
+END

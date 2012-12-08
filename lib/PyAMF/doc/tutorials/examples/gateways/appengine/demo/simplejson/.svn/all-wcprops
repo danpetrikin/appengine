@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/scanner.py
+END
+jsonfilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/jsonfilter.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/encoder.py
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/decoder.py
+END

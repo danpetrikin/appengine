@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/233/trunk/python/lib/markupsafe
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/LICENSE
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/README.rst
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/AUTHORS
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/MANIFEST.in
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/setup.cfg
+END

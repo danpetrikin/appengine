@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/geoip/python
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/geoip/python/client.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/geoip/python/server.py
+END
+server.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/geoip/python/server.wsgi
+END

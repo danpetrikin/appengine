@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/tutorials
+END
+quickstart.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/tutorials/quickstart.rst
+END
+i18n.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/i18n.rst
+END
+virtualenv.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/virtualenv.rst
+END
+auth.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/auth.rst
+END
+installing.packages.rst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/installing.packages.rst
+END
+quickstart.nogae.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/quickstart.nogae.rst
+END
+marketplace.single.signon.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/marketplace.single.signon.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/index.rst
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/241/trunk/python/lib/jinja2
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/241/trunk/python/lib/jinja2/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/241/trunk/python/lib/jinja2/AUTHORS
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/241/trunk/python/lib/jinja2/setup.py
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/241/trunk/python/lib/jinja2/CHANGES
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/241/trunk/python/lib/jinja2/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/241/trunk/python/lib/jinja2/MANIFEST.in
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/241/trunk/python/lib/jinja2/Makefile
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/241/trunk/python/lib/jinja2/setup.cfg
+END

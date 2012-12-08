@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs
+END
+make.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/make.bat
+END
+features.rst
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/features.rst
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/conf.py
+END
+todo.rst
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/todo.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/Makefile
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/index.rst
+END

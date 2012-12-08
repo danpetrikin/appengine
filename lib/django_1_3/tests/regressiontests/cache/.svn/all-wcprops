@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/cache
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/cache/__init__.py
+END
+liberal_backend.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/cache/liberal_backend.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/cache/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/cache/models.py
+END

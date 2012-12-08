@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components
+END
+EditEmailDlg.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components/EditEmailDlg.mxml
+END
+EditPhoneDlg.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components/EditPhoneDlg.mxml
+END
+EditUserDlgClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components/EditUserDlgClass.as
+END
+EditUserDlg.mxml
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components/EditUserDlg.mxml
+END
+EditEmailDlgClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components/EditEmailDlgClass.as
+END
+EditPhoneDlgClass.as
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/components/EditPhoneDlgClass.as
+END

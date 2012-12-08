@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/werkzeug
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/werkzeug/client.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/werkzeug/server.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/bug8245
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/bug8245/admin.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/bug8245/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/bug8245/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/bug8245/models.py
+END

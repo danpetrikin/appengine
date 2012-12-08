@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/serializers
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/serializers/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/serializers/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/serializers/models.py
+END

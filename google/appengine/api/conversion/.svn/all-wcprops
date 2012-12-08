@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/241/trunk/python/google/appengine/api/conversion
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/224/trunk/python/google/appengine/api/conversion/__init__.py
+END
+conversion_stub.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/241/trunk/python/google/appengine/api/conversion/conversion_stub.py
+END
+conversion.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/224/trunk/python/google/appengine/api/conversion/conversion.py
+END
+conversion_service_pb.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/209/trunk/python/google/appengine/api/conversion/conversion_service_pb.py
+END

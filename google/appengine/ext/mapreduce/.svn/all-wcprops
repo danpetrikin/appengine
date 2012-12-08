@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/281/trunk/python/google/appengine/ext/mapreduce
+END
+quota.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/python/google/appengine/ext/mapreduce/quota.py
+END
+mapreduce_pipeline.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/241/trunk/python/google/appengine/ext/mapreduce/mapreduce_pipeline.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/155/trunk/python/google/appengine/ext/mapreduce/__init__.py
+END
+handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/trunk/python/google/appengine/ext/mapreduce/handlers.py
+END
+model.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/277/trunk/python/google/appengine/ext/mapreduce/model.py
+END
+input_readers.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/281/trunk/python/google/appengine/ext/mapreduce/input_readers.py
+END
+base_handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/277/trunk/python/google/appengine/ext/mapreduce/base_handler.py
+END
+namespace_range.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/155/trunk/python/google/appengine/ext/mapreduce/namespace_range.py
+END
+mapper_pipeline.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/241/trunk/python/google/appengine/ext/mapreduce/mapper_pipeline.py
+END
+test_support.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/233/trunk/python/google/appengine/ext/mapreduce/test_support.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/277/trunk/python/google/appengine/ext/mapreduce/errors.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/241/trunk/python/google/appengine/ext/mapreduce/util.py
+END
+shuffler.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/241/trunk/python/google/appengine/ext/mapreduce/shuffler.py
+END
+output_writers.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/257/trunk/python/google/appengine/ext/mapreduce/output_writers.py
+END
+control.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/241/trunk/python/google/appengine/ext/mapreduce/control.py
+END
+status.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/233/trunk/python/google/appengine/ext/mapreduce/status.py
+END
+hooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/155/trunk/python/google/appengine/ext/mapreduce/hooks.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/262/trunk/python/google/appengine/ext/mapreduce/context.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/170/trunk/python/google/appengine/ext/mapreduce/main.py
+END

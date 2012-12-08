@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/markupsafe
+END
+_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/markupsafe/_constants.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/markupsafe/__init__.py
+END
+_speedups.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/markupsafe/_speedups.c
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/markupsafe/tests.py
+END
+_native.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/233/trunk/python/lib/markupsafe/markupsafe/_native.py
+END

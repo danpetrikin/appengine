@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/m2o_recursive
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/m2o_recursive/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/m2o_recursive/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/modeltests/m2o_recursive/models.py
+END

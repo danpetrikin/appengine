@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/281/trunk/python
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/54/trunk/python/BUGS
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/100/trunk/python/LICENSE
+END
+google_sql.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/277/trunk/python/google_sql.py
+END
+bulkload_client.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/277/trunk/python/bulkload_client.py
+END
+remote_api_shell.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/277/trunk/python/remote_api_shell.py
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/281/trunk/python/VERSION
+END
+api_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/277/trunk/python/api_server.py
+END
+appcfg.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/277/trunk/python/appcfg.py
+END
+gen_protorpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/277/trunk/python/gen_protorpc.py
+END
+RELEASE_NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/281/trunk/python/RELEASE_NOTES
+END
+bulkloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/277/trunk/python/bulkloader.py
+END
+dev_appserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/277/trunk/python/dev_appserver.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/281/trunk/python/README
+END
+download_appstats.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/277/trunk/python/download_appstats.py
+END

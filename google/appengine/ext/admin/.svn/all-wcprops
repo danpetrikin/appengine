@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/281/trunk/python/google/appengine/ext/admin
+END
+datastore_stats_generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/262/trunk/python/google/appengine/ext/admin/datastore_stats_generator.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/281/trunk/python/google/appengine/ext/admin/__init__.py
+END

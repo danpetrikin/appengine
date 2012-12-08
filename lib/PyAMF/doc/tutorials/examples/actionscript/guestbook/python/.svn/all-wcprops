@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python
+END
+crossdomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python/crossdomain.xml
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python/client.py
+END
+guestbook.tac
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python/guestbook.tac
+END
+guestbook.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python/guestbook.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python/server.py
+END
+settings.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/guestbook/python/settings.cfg
+END

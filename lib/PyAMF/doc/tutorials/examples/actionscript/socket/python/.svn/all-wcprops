@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/socket/python
+END
+socket-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/socket/python/socket-policy.xml
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/socket/python/client.py
+END
+timer.tac
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/socket/python/timer.tac
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/socket/python/server.py
+END

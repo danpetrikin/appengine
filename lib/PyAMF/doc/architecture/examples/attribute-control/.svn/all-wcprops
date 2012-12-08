@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control
+END
+whitelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/whitelist.py
+END
+synonym.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/synonym.py
+END
+static-attr.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/static-attr.py
+END
+iexternalizable.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/iexternalizable.py
+END
+proxied-attr.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/proxied-attr.py
+END
+models1.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/models1.py
+END
+models2.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/models2.py
+END
+models3.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/models3.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/examples/attribute-control/server.py
+END

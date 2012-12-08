@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/simple/python
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/simple/python/client.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/simple/python/server.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/rwbench/mako
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/rwbench/mako/layout.html
+END
+helpers.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/rwbench/mako/helpers.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/rwbench/mako/index.html
+END

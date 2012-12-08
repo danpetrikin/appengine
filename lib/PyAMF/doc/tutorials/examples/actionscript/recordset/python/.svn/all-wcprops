@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/recordset/python
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/recordset/python/client.py
+END
+gateway.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/recordset/python/gateway.py
+END
+gateway.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/recordset/python/gateway.wsgi
+END
+init.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/recordset/python/init.py
+END
+db.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/recordset/python/db.py
+END

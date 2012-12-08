@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/_themes/jinja
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/_themes/jinja/layout.html
+END
+relations.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/_themes/jinja/relations.html
+END
+theme.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/241/trunk/python/lib/jinja2/docs/_themes/jinja/theme.conf
+END

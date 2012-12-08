@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/jsonrpc-example-code
+END
+test_jsonrpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/jsonrpc-example-code/test_jsonrpc.py
+END
+jsonrpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/jsonrpc-example-code/jsonrpc.py
+END
+test_jsonrpc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/jsonrpc-example-code/test_jsonrpc.txt
+END

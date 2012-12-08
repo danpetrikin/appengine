@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters
+END
+_elixir.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_elixir.py
+END
+_google_appengine_ext_blobstore.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_google_appengine_ext_blobstore.py
+END
+_decimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_decimal.py
+END
+_django_db_models_query.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_django_db_models_query.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/__init__.py
+END
+_django_db_models_fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_django_db_models_fields.py
+END
+_django_utils_translation.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_django_utils_translation.py
+END
+_django_db_models_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_django_db_models_base.py
+END
+_django_contrib_auth_models.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_django_contrib_auth_models.py
+END
+_sqlalchemy_orm_collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_sqlalchemy_orm_collections.py
+END
+_sets.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_sets.py
+END
+_collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_collections.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/util.py
+END
+_array.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_array.py
+END
+_sqlalchemy_orm.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_sqlalchemy_orm.py
+END
+_google_appengine_ext_db.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/adapters/_google_appengine_ext_db.py
+END

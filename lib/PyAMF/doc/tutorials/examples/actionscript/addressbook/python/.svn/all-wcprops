@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python
+END
+crossdomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/crossdomain.xml
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/client.py
+END
+persistent.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/persistent.py
+END
+controller.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/controller.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/models.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/server.py
+END
+server.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/python/server.wsgi
+END

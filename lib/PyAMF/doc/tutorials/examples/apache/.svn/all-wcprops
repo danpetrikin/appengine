@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache
+END
+mod_wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache/mod_wsgi.py
+END
+mod_python.vhost
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache/mod_python.vhost
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache/client.py
+END
+mod_python.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache/mod_python.py
+END
+mod_wsgi.vhost
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache/mod_wsgi.vhost
+END
+myApp.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/apache/myApp.wsgi
+END

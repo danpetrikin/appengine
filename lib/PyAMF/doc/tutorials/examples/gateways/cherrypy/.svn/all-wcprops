@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/cherrypy
+END
+crossdomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/cherrypy/crossdomain.xml
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/cherrypy/client.py
+END
+gateway.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/cherrypy/gateway.py
+END

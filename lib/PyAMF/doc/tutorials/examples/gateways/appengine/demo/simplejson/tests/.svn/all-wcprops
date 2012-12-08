@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests
+END
+test_pass3.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_pass3.py
+END
+test_recursion.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_recursion.py
+END
+test_fail.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_fail.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/__init__.py
+END
+test_indent.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_indent.py
+END
+test_decode.py
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_decode.py
+END
+test_separators.py
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_separators.py
+END
+test_default.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_default.py
+END
+test_dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_dump.py
+END
+test_float.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_float.py
+END
+test_unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_unicode.py
+END
+test_pass1.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_pass1.py
+END
+test_pass2.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/appengine/demo/simplejson/tests/test_pass2.py
+END

@@ -1,0 +1,107 @@
+10
+
+dir
+302
+http://googleappengine.googlecode.com/svn/trunk/python/lib/django_1_2/django
+http://googleappengine.googlecode.com/svn
+
+
+
+2011-03-31T02:08:42.103399Z
+155
+marce@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80f5ef21-4148-0410-bacc-cfb02402ada8
+
+test
+dir
+
+http
+dir
+
+conf
+dir
+
+db
+dir
+
+forms
+dir
+
+__init__.py
+file
+
+
+
+
+2012-12-08T15:47:57.000000Z
+7f5ada80fc3818c0504550e7d673174e
+2011-03-31T02:08:42.103399Z
+155
+marce@google.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+549
+
+core
+dir
+
+templatetags
+dir
+
+views
+dir
+
+shortcuts
+dir
+
+dispatch
+dir
+
+contrib
+dir
+
+utils
+dir
+
+bin
+dir
+
+template
+dir
+
+middleware
+dir
+

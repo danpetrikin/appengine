@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/twisted
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/twisted/wsgi.py
+END
+stackless.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/twisted/stackless.py
+END
+preferred.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/twisted/preferred.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/twisted/client.py
+END
+classic.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/twisted/classic.py
+END

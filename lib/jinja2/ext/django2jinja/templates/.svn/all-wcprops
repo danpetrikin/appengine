@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/241/trunk/python/lib/jinja2/ext/django2jinja/templates
+END
+layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/241/trunk/python/lib/jinja2/ext/django2jinja/templates/layout.html
+END
+subtemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/241/trunk/python/lib/jinja2/ext/django2jinja/templates/subtemplate.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/241/trunk/python/lib/jinja2/ext/django2jinja/templates/index.html
+END

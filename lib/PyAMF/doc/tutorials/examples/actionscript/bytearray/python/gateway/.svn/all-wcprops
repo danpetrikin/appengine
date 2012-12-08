@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/gateway
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/gateway/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/gateway/__init__.py
+END
+gateway.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/gateway/gateway.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/gateway/models.py
+END

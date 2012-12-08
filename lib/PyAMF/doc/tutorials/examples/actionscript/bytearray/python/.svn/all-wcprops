@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/manage.py
+END
+crossdomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/crossdomain.xml
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/urls.py
+END
+server.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/bytearray/python/server.wsgi
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/apache
+END
+mod_wsgi.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/apache/mod_wsgi.rst
+END
+mod_python.rst
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/apache/mod_python.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/apache/index.rst
+END

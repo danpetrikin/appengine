@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/app_loading/eggs
+END
+nomodelapp.egg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/app_loading/eggs/nomodelapp.egg
+END
+brokenapp.egg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/app_loading/eggs/brokenapp.egg
+END
+modelapp.egg
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/app_loading/eggs/modelapp.egg
+END
+omelet.egg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/app_loading/eggs/omelet.egg
+END

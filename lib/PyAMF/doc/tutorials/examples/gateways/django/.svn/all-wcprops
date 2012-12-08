@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/django
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/django/client.py
+END
+amfgateway.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/django/amfgateway.py
+END

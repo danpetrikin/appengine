@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/models
+END
+User.as
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/models/User.as
+END
+PhoneNumber.as
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/models/PhoneNumber.as
+END
+Email.as
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/models/Email.as
+END
+SAObject.as
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/actionscript/addressbook/flex/src/org/pyamf/examples/addressbook/models/SAObject.as
+END

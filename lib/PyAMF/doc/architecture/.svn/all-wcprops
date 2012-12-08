@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture
+END
+future.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/future.rst
+END
+typemap.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/typemap.rst
+END
+classmapping.rst
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/classmapping.rst
+END
+adapters.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/adapters.rst
+END
+attributecontrol.rst
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/attributecontrol.rst
+END
+overview.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/overview.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/architecture/index.rst
+END

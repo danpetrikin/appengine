@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/241/trunk/python/lib/webapp2
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/241/trunk/python/lib/webapp2/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/224/trunk/python/lib/webapp2/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/224/trunk/python/lib/webapp2/TODO
+END
+webapp2.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/241/trunk/python/lib/webapp2/webapp2.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/241/trunk/python/lib/webapp2/setup.py
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/241/trunk/python/lib/webapp2/CHANGES
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/241/trunk/python/lib/webapp2/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/224/trunk/python/lib/webapp2/MANIFEST.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/224/trunk/python/lib/webapp2/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/224/trunk/python/lib/webapp2/Makefile
+END
+run_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/241/trunk/python/lib/webapp2/run_tests.py
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/224/trunk/python/lib/webapp2/setup.cfg
+END

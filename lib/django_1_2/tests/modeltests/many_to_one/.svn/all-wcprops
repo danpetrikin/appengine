@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/modeltests/many_to_one
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/modeltests/many_to_one/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/modeltests/many_to_one/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/modeltests/many_to_one/models.py
+END

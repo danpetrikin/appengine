@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/155/trunk/python/lib/django_0_96/django/contrib/redirects
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/155/trunk/python/lib/django_0_96/django/contrib/redirects/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/155/trunk/python/lib/django_0_96/django/contrib/redirects/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/155/trunk/python/lib/django_0_96/django/contrib/redirects/models.py
+END

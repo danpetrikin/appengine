@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/resources/jinja2_templates
+END
+template1.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/resources/jinja2_templates/template1.html
+END
+template2.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/resources/jinja2_templates/template2.html
+END
+template3.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/resources/jinja2_templates/template3.html
+END
+hello.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/224/trunk/python/lib/webapp2/tests/resources/jinja2_templates/hello.html
+END

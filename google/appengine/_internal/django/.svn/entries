@@ -1,0 +1,77 @@
+10
+
+dir
+302
+http://googleappengine.googlecode.com/svn/trunk/python/google/appengine/_internal/django
+http://googleappengine.googlecode.com/svn
+
+
+
+2011-12-13T19:52:07.871619Z
+224
+marzia@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80f5ef21-4148-0410-bacc-cfb02402ada8
+
+utils
+dir
+
+conf
+dir
+
+__init__.py
+file
+
+
+
+
+2012-12-08T15:48:37.000000Z
+f7ac1441ee277cf1f99d2cba79bd7507
+2011-09-12T23:13:27.925082Z
+199
+marzia@google.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+576
+
+core
+dir
+
+templatetags
+dir
+
+template
+dir
+

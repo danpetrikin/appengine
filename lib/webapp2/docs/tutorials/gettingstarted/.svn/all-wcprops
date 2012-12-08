@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/tutorials/gettingstarted
+END
+staticfiles.rst
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/staticfiles.rst
+END
+handlingforms.rst
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/handlingforms.rst
+END
+helloworld.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/helloworld.rst
+END
+usingdatastore.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/usingdatastore.rst
+END
+templates.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/templates.rst
+END
+introduction.rst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/introduction.rst
+END
+uploading.rst
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/uploading.rst
+END
+devenvironment.rst
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/devenvironment.rst
+END
+usingwebapp2.rst
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/241/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/usingwebapp2.rst
+END
+usingusers.rst
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/usingusers.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/224/trunk/python/lib/webapp2/docs/tutorials/gettingstarted/index.rst
+END

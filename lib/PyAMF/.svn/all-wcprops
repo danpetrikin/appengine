@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/262/trunk/python/lib/PyAMF
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/LICENSE
+END
+setupinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/setupinfo.py
+END
+distribute_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/distribute_setup.py
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/CHANGES.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/setup.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/PKG-INFO
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/README.txt
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/MANIFEST.in
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/setup.cfg
+END

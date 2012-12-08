@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/pylons
+END
+crossdomain.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/pylons/crossdomain.xml
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/pylons/client.py
+END
+gateway.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/gateways/pylons/gateway.py
+END

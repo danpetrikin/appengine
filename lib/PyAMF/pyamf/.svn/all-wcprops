@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf
+END
+versions.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/versions.py
+END
+alias.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/alias.py
+END
+codec.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/codec.py
+END
+sol.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/sol.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/__init__.py
+END
+xml.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/xml.py
+END
+python.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/python.py
+END
+amf0.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/amf0.py
+END
+_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/_version.py
+END
+amf3.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/pyamf/amf3.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/pycon2011
+END
+request_table.rst
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/pycon2011/request_table.rst
+END
+pycon-py3k-sprint.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/pycon2011/pycon-py3k-sprint.txt
+END
+response_table.rst
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/pycon2011/response_table.rst
+END

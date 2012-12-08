@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/python
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/python/client.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/python/server.py
+END
+server.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/authentication/python/server.wsgi
+END

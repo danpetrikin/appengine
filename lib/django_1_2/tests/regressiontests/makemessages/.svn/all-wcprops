@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/makemessages
+END
+javascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/makemessages/javascript.js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/makemessages/__init__.py
+END
+extraction.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/makemessages/extraction.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/makemessages/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/155/trunk/python/lib/django_1_2/tests/regressiontests/makemessages/models.py
+END

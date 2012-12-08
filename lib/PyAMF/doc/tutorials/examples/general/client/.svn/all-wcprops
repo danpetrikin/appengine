@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client
+END
+amf_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/amf_version.py
+END
+referer.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/referer.py
+END
+headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/headers.py
+END
+user_agent.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/user_agent.py
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/exception.py
+END
+logger.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/logger.py
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/authentication.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/general/client/basic.py
+END

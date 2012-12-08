@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs
+END
+doctests.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/doctests.py
+END
+jsonrpc-example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/jsonrpc-example.txt
+END
+index.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/index.txt
+END
+file-example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/file-example.txt
+END
+news.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/news.txt
+END
+differences.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/differences.txt
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/license.txt
+END
+do-it-yourself.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/do-it-yourself.txt
+END
+test_request.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/test_request.txt
+END
+test_dec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/test_dec.txt
+END
+comment-example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/comment-example.txt
+END
+wiki-example.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/wiki-example.txt
+END
+test-file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/test-file.txt
+END
+test_response.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/test_response.txt
+END
+reference.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/reference.txt
+END
+conf.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/245/trunk/python/lib/webob_1_1_1/docs/conf.py
+END

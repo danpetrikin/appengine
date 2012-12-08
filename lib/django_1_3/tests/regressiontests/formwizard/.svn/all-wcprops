@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/formwizard
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/formwizard/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/formwizard/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/formwizard/models.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/formwizard/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/233/trunk/python/lib/django_1_3/tests/regressiontests/formwizard/forms.py
+END

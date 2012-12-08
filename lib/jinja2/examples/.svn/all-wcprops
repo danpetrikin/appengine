@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples
+END
+bench.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/bench.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/241/trunk/python/lib/jinja2/examples/profile.py
+END

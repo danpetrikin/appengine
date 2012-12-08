@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/jython
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/jython/client.py
+END
+demo_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/jython/demo_app.py
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/262/trunk/python/lib/PyAMF/doc/tutorials/examples/jython/web.xml
+END
